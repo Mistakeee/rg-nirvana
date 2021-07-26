@@ -45,7 +45,7 @@
   width: 300px;
   height: 100px;
   background:url('menu.png');
-  filter: invert(0.8);
+  filter: invert(1);
   background-repeat: no-repeat;
   background-size: 30px;
   background-position: center;
