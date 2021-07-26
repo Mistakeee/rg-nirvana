@@ -53,7 +53,7 @@
 }
 .toggle.active{
   background:url('wrong.png');
-  filter: invert(1);
+  filter:invert(1);
   background-repeat: no-repeat;
   background-size: 25px;
   background-position: center;
